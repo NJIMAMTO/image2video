@@ -2,7 +2,7 @@ import glob
 import cv2
 
 path = "/media/mokugyo/ボリューム/3Dface"
-folder = ["F_Angry","F_Disugust","F_Fear","F_Happy","F_Neutral","F_Surprise","F_Unhappy",
+folder = ["F_Angry","F_Disgust","F_Fear","F_Happy","F_Neutral","F_Surprise","F_Unhappy",
         "M_Angry","M_Disgust","M_Fear","M_Happy","M_Neutral","M_Surprise","M_Unhappy"]
 V_S = ["V0S","V2L"]
 E_S = ["_A","_D","_F","_H","_N","_S","_U"] 
